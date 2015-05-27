@@ -1,0 +1,31 @@
+.button {
+    border-radius: 100px;
+}
+.section {
+    padding: 1rem 0 7rem;
+}
+.section-search {
+    padding: 1rem 0 1rem;
+}
+
+.section-heading {
+    margin-bottom: 1.2rem;
+    text-align: center;
+    font-weight: 100;
+    font-size: 9rem;
+    letter-spacing: 0;
+}
+.section-description {
+    margin-bottom: 1.2rem;
+}
+
+.section-header {
+    padding: 8rem 0 7rem;
+    background-color:#4e8ef7;
+    background-size: cover;
+    color: #fff;
+    padding-bottom: 5rem;
+}
+.get-help {
+    border-bottom: 1px solid #ddd;
+}
